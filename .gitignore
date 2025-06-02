@@ -20,6 +20,6 @@ buildNumber.properties
 
 .idea
 
-src/main/resources
+src/main/resources/
 
 *.iml
