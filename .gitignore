@@ -15,11 +15,11 @@ buildNumber.properties
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
-.DS_Store
+*.DS_Store
 
 .idea
 
 *.iml
 
-src/main/resources/application.properties
-src/main/resources/keystore.p12
+src/main/resources/*.properties
+src/main/resources/*.p12
