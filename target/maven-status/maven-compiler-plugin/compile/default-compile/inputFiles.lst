@@ -1,6 +1,0 @@
-/Users/antoninofiumara/Workspace/DinnerDecider/server/DinnerDecider/src/main/java/org/example/dinnerdecider/DinnerDeciderApplication.java
-/Users/antoninofiumara/Workspace/DinnerDecider/server/DinnerDecider/src/main/java/org/example/dinnerdecider/controller/FoodController.java
-/Users/antoninofiumara/Workspace/DinnerDecider/server/DinnerDecider/src/main/java/org/example/dinnerdecider/model/Food.java
-/Users/antoninofiumara/Workspace/DinnerDecider/server/DinnerDecider/src/main/java/org/example/dinnerdecider/repository/FoodRepository.java
-/Users/antoninofiumara/Workspace/DinnerDecider/server/DinnerDecider/src/main/java/org/example/dinnerdecider/service/MongoService.java
-/Users/antoninofiumara/Workspace/DinnerDecider/server/DinnerDecider/src/main/java/org/example/dinnerdecider/utility/Utility.java

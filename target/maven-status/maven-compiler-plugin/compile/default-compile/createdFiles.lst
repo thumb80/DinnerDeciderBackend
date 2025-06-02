@@ -1,6 +1,0 @@
-org/example/dinnerdecider/utility/Utility.class
-org/example/dinnerdecider/DinnerDeciderApplication.class
-org/example/dinnerdecider/model/Food.class
-org/example/dinnerdecider/repository/FoodRepository.class
-org/example/dinnerdecider/controller/FoodController.class
-org/example/dinnerdecider/service/MongoService.class
